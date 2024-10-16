@@ -1,6 +1,6 @@
 # Music Webpage
 
-This is a responsive music webpage that showcases music tracks, artists, and playlists. It utilizes React.js for building the user interface and Tailwind CSS for styling.
+This is a responsive music webpage that showcases music tracks, artists, and playlists. It utilizes **React JS** for building the user interface and **Tailwind CSS** for styling.
 
 ## Screenshots
 
