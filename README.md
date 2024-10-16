@@ -6,11 +6,9 @@ This is a responsive music webpage that showcases music tracks, artists, and pla
 
 [View screenshots](https://github.com/AmmarNaeemJanjua/react-music-webpage/tree/main/screenshots)
 
-
 ## Explore Vue 3 version
 
 [View repo](https://github.com/AmmarNaeemJanjua/music-webpage)
-
 
 ## Recommended IDE Setup
 
