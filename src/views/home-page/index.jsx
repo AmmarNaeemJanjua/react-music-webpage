@@ -1,3 +1,4 @@
+import React from "react";
 import TopSection from "@/components/home-page/TopSection.jsx";
 import MainSection from "@/components/home-page/main-section/index.jsx";
 
