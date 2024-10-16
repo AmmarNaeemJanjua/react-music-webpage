@@ -63,7 +63,7 @@ const TopSection = () => {
                   <span className="text-[24px] leading-[28.63px] font-normal">
                     from
                   </span>
-                  {featured[0]?.artist}
+                  {` ${featured[0]?.artist}`}
                 </div>
               </div>
             </div>

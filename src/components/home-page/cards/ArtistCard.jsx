@@ -26,7 +26,9 @@ const ArtistCard = ({ item }) => {
         </p>
       </div>
       <div>
-        <RatingCard className="my-[0.625rem]" rating={item.rating} />
+        <div className="inline-flex my-[0.625rem]">
+          <RatingCard rating={item.rating} />
+        </div>
 
         <Button
           icon={FollowIcon}

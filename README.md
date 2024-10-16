@@ -1,8 +1,35 @@
-# React + Vite
+# Music Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive music webpage that showcases music tracks, artists, and playlists. It utilizes React.js for building the user interface and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## [Screenshots](https://github.com/AmmarNaeemJanjua/react-music-webpage/tree/main/screenshots)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+screenshots (folder)
+```
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/)
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run serve
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
