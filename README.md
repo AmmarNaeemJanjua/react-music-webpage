@@ -1,4 +1,4 @@
-# Music Webpage
+# Music Webpage (React)
 
 This is a responsive music webpage that showcases music tracks, artists, and playlists. It utilizes **React JS** for building the user interface and **Tailwind CSS** for styling.
 
