@@ -13,19 +13,19 @@ const TopSection = () => {
     {
       id: "1",
       name: "Name Album",
-      image: "/src/assets/feature_sample_img_1.png",
+      image: "/images/feature_sample_img_1.png",
       artist: "Kygo",
     },
     {
       id: "2",
       name: "Name",
-      image: "/src/assets/feature_sample_img_2.png",
+      image: "/images/feature_sample_img_2.png",
       artist: "Artist 2",
     },
     {
       id: "3",
       name: "Starboy by The Week...",
-      image: "/src/assets/feature_sample_img_3.png",
+      image: "/images/feature_sample_img_3.png",
       artist: "Artist 3",
     },
   ]);
