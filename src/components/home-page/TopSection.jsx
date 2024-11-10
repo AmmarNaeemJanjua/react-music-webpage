@@ -52,6 +52,7 @@ const TopSection = () => {
             className="rounded object-cover w-full h-full"
             src={featured[0]?.image}
             alt={featured[0]?.name}
+            loading="lazy"
           />
           <div className="absolute inset-0 rounded text-white flex flex-col justify-end sm:justify-between sm:pl-[29px] pl-[21px] py-5">
             <FeatureLabel />
@@ -77,6 +78,7 @@ const TopSection = () => {
               className="rounded object-cover w-full h-full"
               src={item?.image}
               alt={item?.name}
+              loading="lazy"
             />
             <div className="absolute inset-0 rounded text-white flex flex-col sm:justify-normal justify-end sm:pl-[19px] pl-[21px] py-5">
               <FeatureLabel />

@@ -20,6 +20,7 @@ const AlbumCard = ({ item }) => {
           className="object-cover sm:w-[170px] w-[135px] sm:h-[170px] h-[135px] rounded-t transition-opacity duration-300"
           src={item?.image}
           alt={item?.title}
+          loading="lazy"
         />
         {isHovered && (
           <div className="absolute inset-0 bg-gradient-to-b from-[rgba(7,21,38,0.3588)] to-[rgba(7,21,38,0.69)] z-[1] rounded-t"></div>
